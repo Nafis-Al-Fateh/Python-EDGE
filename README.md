@@ -1,5 +1,3 @@
-# Python-EDGE
-
 # Python EDGE
 
 Python EDGE is an educational package that provides an introduction to Python programming, including popular libraries like **Numpy**, **Pandas**, and **Matplotlib**. It's designed to help you get hands-on with Python for data analysis, manipulation, and visualization.

@@ -19,6 +19,14 @@ Python EDGE is an educational package that provides an introduction to Python pr
 - **Instructor**: [Shakirul Hasan Khan](https://github.com/khanshaheb34)
   - Software Engineer, Re:cruit
 - **Course Material**: [View Course Material](https://tinyurl.com/shk-pp06)
+  
+---
+
+### Section 3: Titanic Survival Prediction Project  
+- **Instructor**: [Mahfuzur Rahman Emon](https://www.sust.edu/institutes/2/faculty/5472)
+  - Lecturer, IICT, SUST
+- **Description:** This section focuses on applying Python programming and data analysis skills to predict survival outcomes from the Titanic dataset using libraries like Pandas, Numpy, and machine learning models.  
+- **Course Material:** [View data set](https://www.kaggle.com/competitions/titanic)  
 
 ---
 
